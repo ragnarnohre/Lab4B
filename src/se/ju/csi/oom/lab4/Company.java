@@ -1,3 +1,4 @@
+package se.ju.csi.oom.lab4;
 
 
 public class Company implements Participant {

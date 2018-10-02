@@ -1,9 +1,10 @@
+package se.ju.csi.oom.lab4;
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-public class TimeZoneTranslaterTest2 {
+public class TimeZoneTranslaterTest {
 
 	@Before
 	public void setUp() throws Exception {

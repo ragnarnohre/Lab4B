@@ -1,3 +1,4 @@
+package se.ju.csi.oom.lab4;
 
 public enum TimeZone {
 	INTERNATIONAL_DATE_LINE_WEST(-12),

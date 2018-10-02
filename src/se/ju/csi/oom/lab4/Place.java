@@ -1,3 +1,4 @@
+package se.ju.csi.oom.lab4;
 
 /**
  * This is a simple data class representing a named place with a latitude, longitude, and altitude.
